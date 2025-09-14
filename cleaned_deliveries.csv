@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,bowler,batsman_runs,extra_runs,total_runs,dismissal_kind,player_dismissed
+1,1,KKR,RCB,1,1,McCullum,Zaheer,6,0,6,Unknown,Unknown
+1,1,KKR,RCB,1,2,McCullum,Zaheer,4,0,4,Unknown,Unknown
+2,1,CSK,MI,2,1,Dhoni,Malinga,1,0,1,Unknown,Unknown
+2,2,MI,CSK,2,2,Sachin,Murali,2,0,2,Unknown,Unknown
+3,1,MI,DC,3,1,Sachin,Gilly,6,0,6,Unknown,Unknown
+3,2,DC,MI,3,2,Gilly,Sachin,4,0,4,Unknown,Unknown
